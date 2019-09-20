@@ -6,6 +6,7 @@ metadata:
   namespace: demo
   labels:
     app: podinfo
+    k8s-app: podinfo
   annotations:
     flux.weave.works/automated: "true"
     flux.weave.works/tag.init: regex:^3.10.*
