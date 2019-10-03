@@ -1,0 +1,1 @@
+{"jobID":"c654db59-47e3-4e7e-699a-b85a0c53e9e6","spec":{"type":"policy","cause":{"Message":"","User":"Savio Lucena \u003csaviogl@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
