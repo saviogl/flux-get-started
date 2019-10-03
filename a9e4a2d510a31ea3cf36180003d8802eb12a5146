@@ -1,0 +1,1 @@
+{"jobID":"c5ace05a-aa52-e23a-71a4-8bb68f04ccaa","spec":{"type":"policy","cause":{"Message":"","User":"Savio Lucena \u003csaviogl@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{},"remove":{"locked":"true","locked_msg":"true","locked_user":"true"}}}},"result":null}
