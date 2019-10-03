@@ -1,0 +1,1 @@
+{"jobID":"f94c431e-93e8-3374-7582-96ca31461c88","spec":{"type":"policy","cause":{"Message":"","User":"Savio Lucena \u003csaviogl@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"semver:*"},"remove":{}}}},"result":null}
